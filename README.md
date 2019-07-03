@@ -1,4 +1,4 @@
-# Sound Classification
+# Sound Classification for quality control in assembly processes
 
 This Repository is a deep learning pipeline for classification of a special noise in an assembly process.
 This Code is the base of our paper.
