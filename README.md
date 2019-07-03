@@ -9,3 +9,7 @@ This Code is the base of our paper.
 * Ignore the warning: 'This notebook was not authored by Google.' Check 'Reset all runtimes before running' and click 'Run anyway'
 
 Train and check out our models at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/CNN_classification.ipynb)
+
+or 
+
+Check out our Visualizations and plots for the paper at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/Visualize_data.ipynb)
