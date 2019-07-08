@@ -12,4 +12,9 @@ Train and check out our models at [![Colab](https://colab.research.google.com/as
 
 or 
 
+Check out our XGB, SVM, RF, GNB Benchmarking [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/benchmarking.ipynb)
+
+or 
+
 Check out our Visualizations and plots for the paper at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/Visualize_data.ipynb)
+
