@@ -6,7 +6,7 @@ This Code is the base of our paper.
 ## Set up training data
 Our whole dataset is available at Google.drive.
 We labeled the data ourself and create 4325 data examples.
-If you clone our repository please set up the paths according to our Jupter Notebooks.
+If you clone our repository please set up the paths according to the path in our Jupter Notebooks.
 
 ## Jypter Notebooks on [Google Colab](http://colab.research.google.com)
 
