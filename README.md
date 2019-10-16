@@ -13,7 +13,7 @@ If you clone our repository please set up the paths according to the path in our
 * Select 'Runtime' -> 'Change runtime time' -> 'Python 3' (and 'GPU') before running the notebook.
 * Ignore the warning: 'This notebook was not authored by Google.' Check 'Reset all runtimes before running' and click 'Run anyway'
 
-Train and check out our models at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/CNN_classification.ipynb)
+Train and check out our CNN model at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/CNN_classification.ipynb)
 
 or 
 
