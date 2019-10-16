@@ -19,9 +19,5 @@ or
 
 Check out our XGB, SVM, RF, GNB Benchmarking [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/Benchmarking.ipynb)
 
-or 
-
-Check out our Visualizations and plots for the paper at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/Visualize_data.ipynb)
-
 ## Models
 In the subfolder models you can access all our trained models and directly use them for your own predictions.
