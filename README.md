@@ -13,15 +13,11 @@ If you clone our repository please set up the paths according to the path in our
 * Select 'Runtime' -> 'Change runtime time' -> 'Python 3' (and 'GPU') before running the notebook.
 * Ignore the warning: 'This notebook was not authored by Google.' Check 'Reset all runtimes before running' and click 'Run anyway'
 
-Train and check out our models at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/CNN_classification.ipynb)
+Train and check out our CNN model at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/CNN_classification.ipynb)
 
 or 
 
 Check out our XGB, SVM, RF, GNB Benchmarking [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/Benchmarking.ipynb)
-
-or 
-
-Check out our Visualizations and plots for the paper at [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/adrian398/Sound_classification/blob/master/Visualize_data.ipynb)
 
 ## Models
 In the subfolder models you can access all our trained models and directly use them for your own predictions.
